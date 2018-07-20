@@ -1,0 +1,19 @@
+[  
+   {  
+      "locationId":"xx",
+      "name":"stores",
+      "series":"ddd",
+      "size":"ddd",
+      "traffic":"ddd",
+      "sku":"ddd",
+      "view":"ddd",
+      "transaction":"ddd",
+      "fans":"ddd",
+      "revenue":"ddd",
+      "dateStart":"ddd",
+      "dateEnd":"ddd"
+     
+   }
+
+ 
+]
